@@ -12,3 +12,4 @@ Se creara glosario con los conceptos básicos de Azure
 [Regiones y zona de disponibilidad](azure-regiones-infografia.pdf)
 # Mapa-Mentales
 [Servicios de Azure parte 1](serviciosmind.jpg)
+[Servicios de Azure Parte II(serviciospart2 (1).jpg)
