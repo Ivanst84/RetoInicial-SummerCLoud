@@ -1,3 +1,4 @@
 # RetoInicial-SummerCLoud
-se creara glosario con los conceptos básicos de Azure
+Se creara glosario con los conceptos básicos de Azure
+# Infografia-Conceptos
 [Infografia basica](infografia_azure_cb.pdf)
