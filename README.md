@@ -9,4 +9,5 @@ Se creara glosario con los conceptos básicos de Azure
 
 [Tipo suscripcion Azure](azure-suscripcion-infografia.pdf)
 
+[Regiones y zona de disponibilidad](azure-regiones-infografia.pdf)
 # Mapa-Mentales
