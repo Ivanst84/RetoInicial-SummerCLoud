@@ -6,4 +6,7 @@ Se creara glosario con los conceptos básicos de Azure
 [Tipo de nubes](azure-tipo-nube-infografia.pdf)
 
 [Recursos de azure](azure-recurso-serv-infografia.pdf)
+
+[Tipo suscripcion Azure](azure-suscripcion-infografia.pdf)
+
 # Mapa-Mentales
