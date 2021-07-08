@@ -16,3 +16,12 @@ Se creara glosario con los conceptos básicos de Azure
 [Servicios de Azure parte 1](serviciosmind.jpg)
 
 [Servicios de Azure Parte II](serviciospart2v.jpg)
+
+# Cuadros-Sinopticos 
+
+# lluvia de ideas
+
+# Videos
+
+# Bibliografia Digital
+
