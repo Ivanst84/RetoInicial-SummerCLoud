@@ -30,4 +30,5 @@ Se creara glosario con los conceptos básicos de Azure
 
 # Bibliografia Digital
 
-# Informaciòn general sobre precios  [Còmo funcionan los precios de Azure|Microsoft AzurePagina](https://azure.microsoft.com/es-mx/pricing/)
+*  ** Informaciòn general sobre precios  [Còmo funcionan los precios de Azure|Microsoft AzurePagina](https://azure.microsoft.com/es-mx/pricing/)
+* ** Calculadora de precios (https://azure.microsoft.com/es-mx/pricing/calculator/)
