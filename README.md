@@ -11,7 +11,8 @@ Se creara glosario con los conceptos básicos de Azure
 
 [Regiones y zona de disponibilidad](azure-regiones-infografia.pdf)
 
-[Estructura Organizativa](Estructura organizativa.pdf)
+[Estructura Organizativa](Estructura_organizativa.pdf)
+[Acuerdo de nivel de servicios](acuerdo_de_nivel_de_servicio.pdf)
 # Mapa-Mentales
 [Servicios de Azure parte 1](serviciosmind.jpg)
 
