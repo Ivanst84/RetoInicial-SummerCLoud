@@ -13,13 +13,14 @@ Se creara glosario con los conceptos básicos de Azure
 
 [Estructura Organizativa](Estructura_organizativa.pdf)
 [Acuerdo de nivel de servicios](acuerdo_de_nivel_de_servicio.pdf)
+
 # Mapa-Mentales
 [Servicios de Azure parte 1](serviciosmind.jpg)
 
 [Servicios de Azure Parte II](serviciospart2v.jpg)
 
 # Cuadros-Sinopticos 
-
+[Servicio de Redes Azure](Redes_Virtuales_Mapa_Conceptual.jpeg)
 # lluvia de ideas
 
 # Videos
