@@ -15,6 +15,8 @@ Se creara glosario con los conceptos básicos de Azure
 
 [Acuerdo de nivel de servicios](acuerdo_de_nivel_de_servicio.pdf)
 
+[Acuerdo de nivel de servicios presentación](Acuerdo_nivel_servicio.pptx)
+
 # Mapa-Mentales
 [Servicios de Azure parte 1](serviciosmind.jpg)
 
@@ -28,6 +30,7 @@ Se creara glosario con los conceptos básicos de Azure
 # lluvia de ideas
 
 # Videos
+[Acuerdo de nivel de servicios Video](Acuerdo_nivel_servicio.mp4)
 
 # Bibliografia Digital
  ## Costos
