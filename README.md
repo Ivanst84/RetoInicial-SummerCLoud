@@ -29,6 +29,7 @@ Se creara glosario con los conceptos básicos de Azure
 # Videos
 
 # Bibliografia Digital
-
-*  ** Informaciòn general sobre precios  [Còmo funcionan los precios de Azure|Microsoft AzurePagina](https://azure.microsoft.com/es-mx/pricing/)
-* ** Calculadora de precios (https://azure.microsoft.com/es-mx/pricing/calculator/)
+ ## Costos
+*   Informaciòn general sobre precios  [Còmo funcionan los precios de Azure|Microsoft AzurePagina](https://azure.microsoft.com/es-mx/pricing/)
+*  Calculadora de precios [Click para entrar a calculadora](https://azure.microsoft.com/es-mx/pricing/calculator/)
+*  Calculadora de Costo total de propiedad(TCO)(https://azure.microsoft.com/es-mx/pricing/tco/calculator/)
