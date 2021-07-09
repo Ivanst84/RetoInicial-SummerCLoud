@@ -21,7 +21,9 @@ Se creara glosario con los conceptos básicos de Azure
 
 # Cuadros-Sinopticos 
 [Servicio de Redes Azure](Redes_Virtuales_Mapa_Conceptual.jpeg)
+
 [Servic Storage Azure](azure_Storage.jpeg)
+
 # lluvia de ideas
 
 # Videos
