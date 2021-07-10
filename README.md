@@ -24,6 +24,9 @@ Se creara glosario con los conceptos básicos de Azure
 
 [Servicios de Azure Parte III](Servicios_de_Azure_Parte_III.pdf)
 
+# Servicios especificos
+[Servicios de Inteligencia Artificial](Azure_Servicios_de_Inteligencia_Artificial.pdf)
+
 # Cuadros-Sinopticos 
 [Servicio de Redes Azure](Redes_Virtuales_Mapa_Conceptual.jpeg)
 
